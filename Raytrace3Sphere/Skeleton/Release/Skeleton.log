@@ -1,0 +1,33 @@
+﻿  raytrace.cpp
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(21,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(150,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(163,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(167,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(179,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(182,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(188,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(198,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(200,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(202,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(204,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(205,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(211,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(221,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(222,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(223,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(224,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(225,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(226,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(227,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(228,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(229,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(230,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(232,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\Skeleton\raytrace.cpp(290,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  17 of 262 functions ( 6.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> C:\Users\Admin\OneDrive\Desktop\CSE 170\CSE-170-Computer-Graphics\Raytrace3Sphere\bin\Skeleton.exe
