@@ -1,6 +1,8 @@
 #include "framework.h"
 #include <iostream>
 
+//Summary: renders image of created scene and loads it in as a texture
+
 enum MaterialType { ROUGH, REFLECTIVE, REFRACTIVE };
 bool key_states[256];
 int a = 1;
